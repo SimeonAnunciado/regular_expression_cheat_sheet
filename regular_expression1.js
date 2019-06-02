@@ -48,7 +48,7 @@ re = /hello/i;
 
 // Metacharacter Symbols
 re = /^h/i //must start with h with flag incase sensitive
-re = /n$/i //must end swith
+re = /n$/i //must end with n
 re = /^hello world$/i //must begin and end swith;
 re = /h.llo/i //matches one any character  ;
 re = /h*llo/i //matches any character 0 or more times  ;
